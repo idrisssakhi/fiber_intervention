@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/*
+android/build
+android/.gradle
+android/local.properties
+ios/Pods
+ios/mobile.xcworkspace/*
+android/app/build
